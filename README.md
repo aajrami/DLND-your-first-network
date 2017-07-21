@@ -1,6 +1,6 @@
 #  Your first neural network
 
-### The first project of the [_**Deep Learning Nanodegree Foundation**_](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
+### The first project for the [_**Deep Learning Nanodegree Foundation**_](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 
 
 The project is about building a Neural Network to predict the number of future bike rentals based on a real-life [dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset). 
